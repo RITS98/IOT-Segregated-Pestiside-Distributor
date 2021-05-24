@@ -1,4 +1,4 @@
-# Segregated-Pestiside-Distributor
+# IOT - Segregated-Pestiside-Distributor
 
 Implementation and code for the Pesticide Segregator Project we undertook as a part of the course IOT Domain Analyst (ECE3502). Both the Software and the Hardware code has been added. Final Report has been uploded in VTOP.
 
